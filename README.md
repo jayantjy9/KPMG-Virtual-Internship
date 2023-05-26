@@ -1,5 +1,6 @@
+<img width="297" alt="image" src="https://github.com/jayantjy9/KPMG-Virtual-Internship/assets/118092998/c75a9661-2a68-465b-81aa-3ab6e7c39fa3">
 
-# Sprocket Central Pty Ltd Data Analysis
+# **Sprocket Central Pty Ltd Data Analysis**
 
 In this Virtual Internship, I worked as a data Analyst for Sprocket Central Pty Ltd, a dynamic medium-sized bikes and cycling accessories fictional organization under KPMG Data Analytics virtual Internship. 
 
@@ -8,6 +9,8 @@ In this Virtual Internship, I worked as a data Analyst for Sprocket Central Pty 
 ## Introduction
 
 The purpose of this project is to leverage the power of data to identify the high-value customers within a dataset of 1000 prospects. By analyzing customer demographic, customer address, and transactions datasets, I tried to uncover hidden insights that will drive maximum value for Sprocket Central Pty Ltd.
+
+
 ## Tools and References
 
 For this project, the following tools and references were utilized:
@@ -41,9 +44,9 @@ The final stage focuses on using visualizations to present insights derived from
 
 Here are the key findings from the analysis:
 
-**Age group**: The sweet spot for our target audience lies between 41 and 50. This age range shows promising potential for driving value and should be a prime focus in our marketing efforts.
+@ **Age group**: The sweet spot for our target audience lies between 41 and 50. This age range shows promising potential for driving value and should be a prime focus in our marketing efforts.
 
-**Gender-based profit analysis**: Female customers have proven to generate slightly higher profits compared to male customers. Capitalizing on this insight, we can develop targeted strategies to engage and satisfy our female customer base. Furthermore, the months of October and August stand out as particularly lucrative and deserve special attention in our marketing calendar.
+@ **Gender-based profit analysis**: Female customers have proven to generate slightly higher profits compared to male customers. Capitalizing on this insight, we can develop targeted strategies to engage and satisfy our female customer base. Furthermore, the months of October and August stand out as particularly lucrative and deserve special attention in our marketing calendar.
 
 **State-wise distribution**: The state of NSW emerges as the hub of cycling transactions, accounting for a whopping 53% of the total. By strategically targeting this region, we can tap into the thriving cycling community and maximize our impact.
 
